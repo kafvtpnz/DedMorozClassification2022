@@ -1,3 +1,5 @@
+![](https://images11.cosmopolitan.ru/upload/custom/a26/a264b935db7b6dca898a939b406678d4.jpg)
+
 # DedMorozClassification2022
 
 В декабре вы помогли Деду Морозу доставить подарки с помощью дронов (https://github.com/kafvtpnz/DedMorozChallenge2021). 
